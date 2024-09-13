@@ -1,0 +1,101 @@
+body {
+    background-color: #556b2f;
+    padding-top: 56px;
+
+}
+
+.navbar-brand img {
+    max-height: 50px;
+}
+
+.form-inline a {
+    color: inherit;
+}
+
+.form-inline svg {
+    margin: 0 5px;
+}
+
+section {
+    background-color: #ffffff;
+}
+
+.featured-dishes img {
+    width: 100%;
+    height: auto;
+}
+
+.custom-section {
+    height: 500px;
+    width: 100%;
+    background-color: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ddd;
+}
+
+.hero-section {
+    height: 700px;
+    background-image: url(/img/home.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    opacity: 0.8;
+}
+
+.section {
+    background-color: #ddd;
+}
+
+.navbar-brand img {
+    height: 60px;
+    width: auto;
+}
+
+#menu {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: #e9ecef;
+}
+
+.nav-tabs-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.nav-tabs {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-item {
+    margin: 0 10px;
+}
+
+.recipe-card {
+    margin-bottom: 20px;
+}
+
+.recipe-card img {
+    max-height: 200px;
+    object-fit: cover;
+}
+
+.recipe-card-body {
+    text-align: center;
+}
+
+.search-bar {
+    margin-bottom: 20px;
+}
